@@ -50,7 +50,7 @@
   <file path="Data/Heil_Exchange.enc" hash="BADE9BC662AE66712C816EF6E6E4A5CE" size="788" />
   <file path="Data/honor_medal.enc" hash="FA5325A9A64F56A1EE76305C321A30EA" size="2245" />
   <file path="Data/InventorySlot.enc" hash="85A2E6B4CD33E10698FE27CB8531236C" size="4519" />
-  <file path="Data/item.enc" hash="14083764A3FBC182B9B8EBC28DAC7DCE" size="120322" />
+  <file path="Data/item.enc" hash="830FA2D06E0BE76C51081F2115D37A3C" size="120317" />
   <file path="Data/item2.enc" hash="9E45401DD80DF4BD3B4DF0E2D66E1668" size="121752" />
   <file path="Data/item3.enc" hash="B51AC75EBBF5F4C8F2C95ECF2DF57A67" size="98" />
   <file path="Data/item4.enc" hash="F869C0A662B38FC8D28E2580777FE131" size="98" />
@@ -131,4 +131,8 @@
   <file path="Data/language/Portuguese/tab_msg.enc" hash="B198E89806511D80BAF86570CF0777FC" size="177" />
   <file path="Data/language/Portuguese/tip.cbl" hash="B890A7073BE35BE1328C0B63C45CD70D" size="35178" />
   <file path="Data/language/Portuguese/tip.enc" hash="A7BBA7087013A9B589D66E51C7A3478B" size="2496" />
+  <file path="Data/ui/est_ci.dds" hash="A0FC4728502E8DE8BC4939AF3305B65F" size="27328" />
+  <file path="Data/ui/Logo.dds" hash="618D8F123FE2657AF913357AF8BEBA35" size="524416" />
+  <file path="Data/ui/logo_company.dds" hash="1B55095EA8332ABE037A006943E4ED55" size="534704" />
+  <file path="Data/ui/Logo_EST.dds" hash="1CD92991D3D64F0879D196171C4911EE" size="629620" />
 </files>
